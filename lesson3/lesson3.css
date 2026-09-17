@@ -1,0 +1,102 @@
+button {
+  font-family: Arial;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.uber {
+  background-color: black;
+  color: white;
+  border: none;
+  width: 150px;
+  height: 50px;
+}
+
+.uber:hover {
+  opacity: 0.8;
+}
+
+.amazon {
+  background-color: rgb(255, 216, 20);
+  color: black;
+  border: none;
+  border-radius: 25px;
+  width: 300px;
+  height: 50px;
+}
+
+.amazon:hover {
+  background-color: rgb(245, 205, 10);
+}
+
+.github {
+  background-color: rgb(46, 164, 79);
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-weight: bold;
+  width: 210px;
+  height: 50px;
+}
+
+.github:hover {
+  box-shadow: 0px 5px 8px rgba(0, 0, 0, 0.25);
+}
+
+.bootstrap-start {
+  background-color: rgb(121, 82, 179);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  width: 150px;
+  height: 50px;
+}
+
+.bootstrap-download {
+  background-color: rgb(108, 117, 125);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  width: 150px;
+  height: 50px;
+}
+
+.bootstrap-start:hover {
+  background-color: rgb(100, 65, 155);
+}
+
+.bootstrap-download:hover {
+  background-color: rgb(90, 98, 104);
+  color: black;
+}
+
+.linkedin-apply {
+  background-color: rgb(10, 102, 194);
+  color: white;
+  border: none;
+  border-radius: 25px;
+  font-weight: bold;
+  width: 300px;
+  height: 50px;
+}
+
+.linkedin-save {
+  background-color: white;
+  color: rgb(10, 102, 194);
+  border: 1px solid rgb(10, 102, 194);
+  border-radius: 25px;
+  font-weight: bold;
+  width: 100px;
+  height: 50px;
+}
+
+.linkedin-apply:hover {
+  background-color: rgb(8, 80, 160);
+}
+
+.linkedin-save:hover {
+  background-color: rgb(230, 240, 250);
+  border-width: 4px;
+}
